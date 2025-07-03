@@ -6,7 +6,14 @@ Welcome to my **HTML Fundamentals Assignment** for the **Summer School Online Da
 ---
 
 ## 📁 Project Structure
-
+summer-school-online-day-1/
+├── portfolio.html # Main Portfolio Page
+├── about.html # About Me Page
+├── contact.html # Contact Form Page with enhancements
+├── favicon.ico # Favicon for the site
+├── images/
+│ └── harshapic.jpg # Profile image used in portfolio
+└── README.md # This file
 ---
 
 ## ✅ Part 1: Basic Portfolio Pages
