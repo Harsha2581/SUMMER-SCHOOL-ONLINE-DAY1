@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Portfolio</title>
+  <link rel="icon" type="images/harshapic" href="images/harshapic.jpg" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Portfolio</h1>
+    <nav>
+      <ul>
+        <li><a href="portfolio.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>My Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>MongoDB</li>
+        <li>React.js</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Educational Background</h3>
+      <ol>
+        <li>Dr. KKR Gowtham High School - 2020</li>
+        <li>B.Tech in Electronics and Communication Engineering - IIIT Manipur - 2026</li>
+      </ol>
+    </section>
+
+    <section>
+      <h4>Projects</h4>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Portfolio Website</td>
+            <td>Personal portfolio built using HTML</td>
+            <td>2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h5>Profile Image</h5>
+      <img src="images/harshapic.jpg" alt="Profile picture of Harsha" width="200" />
+    </section>
+  </main>
+
+  <footer>
+    <h6>© 2025 Harsha Vardhan. All rights reserved.</h6>
+  </footer>
+</body>
+</html>
 
